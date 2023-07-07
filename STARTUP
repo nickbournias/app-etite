@@ -7,7 +7,7 @@ sudo yum update -y
 sudo yum install -y git
 
 #clone from my repository
-git clone https://github.com/NigelBojangus/passwordgenerator.git
+git clone https://github.com/nickbournias/app-etite.git
 
 #install python
 sudo yum install -y python3-pip
