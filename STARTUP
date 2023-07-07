@@ -1,0 +1,22 @@
+#! /bin/bash
+
+#update repository
+sudo yum update -y
+
+#install git
+sudo yum install -y git
+
+#clone from my repository
+git clone https://github.com/NigelBojangus/passwordgenerator.git
+
+#install python
+sudo yum install -y python3-pip
+
+#install flask
+sudo pip3 install flask
+
+#change directory to repository downloaded
+cd passwordgenerator
+
+#run app
+sudo python3 app.py 
