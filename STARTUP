@@ -16,7 +16,7 @@ sudo yum install -y python3-pip
 sudo pip3 install flask
 
 #change directory to repository downloaded
-cd passwordgenerator
+cd app-etite
 
 #run app
 sudo python3 app.py 
