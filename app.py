@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 apps = [
     {
-        'author': 'Nigel Bojangus',
+        'author': 'Nick Bournias',
         'title': 'Password Generator',
         'content': 'Password generator content'
     },
