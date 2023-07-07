@@ -11,7 +11,7 @@ apps = [
         'content': 'Password generator content'
     },
     {
-        'author': 'Nigel Bojangus',
+        'author': 'Nick Bournias',
         'title': 'Test',
         'content': 'MP3 content'
     }
